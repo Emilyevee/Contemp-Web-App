@@ -25,6 +25,6 @@ To complete the final stage of this methododoy the last part was to complete use
  When asked what could be done to improve the application many users suggested in adding in a page with tips and tricks on how to save money/ how to make money last, which is something that would be highly consisdered if the project was to be done again. 
        
        
-#### Resultss ####
+#### Results ####
 Overall the solution that has been created to the intial issue of students struggling to budgeting at univeristy has been successful, the application that was created inclueds elements that can be used to help students see finaces and spending habits in order to make them more aware of the value of money and how they could cut down. If this project was to be completed again more pages would be added to have a more informative page with tips on and a page potentially with a savings goal on that enabled students to set a goal and see how long it may take to complete it. 
        
