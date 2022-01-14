@@ -21,7 +21,7 @@ scr:https://www.workfront.com/en-gb/project-management/methodologies/waterfall
        
        
  #### Methods ####
-To complete the final stage of this methododoy the last part was to complete user testing; to do this a survery was given to a group of undergraduate students ages rangeing from 18-24 with the link to the final SPA on it, this allowed the students to test the application and then answer several qustions based on the application. From this is was estabislshed 70% of the students asked found the appliciaiton easy to use and clear to navigate with 80% of them saying they would use the app again. Around 75% of the students said they would beleive this applicaiton would help them to budget their finaces and liked how clear each section was laided out. 
+To complete the final stage of this methodology the last part was to complete user testing; to do this a survery was given to a group of undergraduate students ages rangeing from 18-24 with the link to the final SPA on it, this allowed the students to test the application and then answer several qustions based on the application. From this is was estabislshed 70% of the students asked found the applicaiton easy to use and clear to navigate with 80% of them saying they would use the app again. Around 75% of the students said they could see this applicaiton would help them to budget their finaces and liked how clear each section was laid out. 
  When asked what could be done to improve the application many users suggested in adding in a page with tips and tricks on how to save money/ how to make money last, which is something that would be highly consisdered if the project was to be done again. 
        
        
